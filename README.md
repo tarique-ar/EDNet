@@ -1,4 +1,4 @@
-# EDNet: Atention-Based Multimodal Representation for Classification of Twiter Users Related to Eating Disorders
+# EDNet: Atention-Based Multimodal Representation for Classification of Twitter Users Related to Eating Disorders
 
 This GitHub repository contains the benchmark dataset generated in our EDNet paper [1]. The dataset contains the details of four different types of Twitter users, categorised on the basis of the nature of their engagement with eating disorder (ED) related contents. The dataset statistics as given in the paper, is shown below. Here we share the complete *imbalanced* dataset. The balanced dataset can be created as a subset of this imbalanced version.
 
